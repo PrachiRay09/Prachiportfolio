@@ -6,52 +6,12 @@ import { ImageWithFallback } from './figma/ImageWithFallback';
 
 const projects = [
   {
-    title: 'E-Commerce Platform',
-    description: 'A full-stack e-commerce solution with shopping cart, payment integration, and admin dashboard.',
-    technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-    image: 'ecommerce website mockup',
-    liveLink: '#',
-    githubLink: '#'
-  },
-  {
-    title: 'Task Management App',
-    description: 'Collaborative task management tool with real-time updates and team collaboration features.',
-    technologies: ['Next.js', 'TypeScript', 'PostgreSQL', 'Tailwind CSS'],
-    image: 'task management dashboard',
-    liveLink: '#',
-    githubLink: '#'
-  },
-  {
-    title: 'Weather Dashboard',
-    description: 'Beautiful weather application with interactive maps and detailed forecasts.',
-    technologies: ['React', 'Weather API', 'Chart.js', 'CSS3'],
-    image: 'weather app interface',
-    liveLink: '#',
-    githubLink: '#'
-  },
-  {
-    title: 'Portfolio Builder',
-    description: 'SaaS application for creating and customizing professional portfolios without coding.',
-    technologies: ['React', 'Firebase', 'Material-UI', 'Redux'],
-    image: 'portfolio builder app',
-    liveLink: '#',
-    githubLink: '#'
-  },
-  {
-    title: 'Social Media Analytics',
-    description: 'Analytics dashboard for tracking social media performance across multiple platforms.',
-    technologies: ['Vue.js', 'Express', 'D3.js', 'MongoDB'],
-    image: 'analytics dashboard',
-    liveLink: '#',
-    githubLink: '#'
-  },
-  {
-    title: 'Chat Application',
-    description: 'Real-time messaging app with group chats, file sharing, and video calling features.',
-    technologies: ['React', 'Socket.io', 'WebRTC', 'Node.js'],
-    image: 'chat application interface',
-    liveLink: '#',
-    githubLink: '#'
+    title: 'Movie Rental System',
+    description: 'A movie rental management application for handling movie listings, rentals, and return workflows.',
+    technologies: ['Java', 'MySQL', 'JDBC'],
+    image: 'movie rental system application',
+    liveLink: 'https://github.com/PrachiRay09/Movie-Rental-System',
+    githubLink: 'https://github.com/PrachiRay09/Movie-Rental-System'
   }
 ];
 
